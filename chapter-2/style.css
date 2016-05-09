@@ -6,6 +6,11 @@ main, header, footer {
   min-width: 855px;
 }
 
+head .container, footer .container, main {
+  max-width: 855px;
+  margin: auto;
+}
+
 main {
   background: white;
 }
