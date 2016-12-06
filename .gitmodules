@@ -1,0 +1,3 @@
+[submodule "chapter-4-LWAD"]
+	path = chapter-4-LWAD
+	url = git@github.com:Angeldude/chapter-4-LWAD.git
